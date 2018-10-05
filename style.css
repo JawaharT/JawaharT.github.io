@@ -27,13 +27,6 @@ a:hover, a:active{
   clear: both;
 }
 
-.mainHeader img{
-  width: 30%;
-  height: auto;
-  margin: 2% 0;
-  margin-left: 3%;
-}
-
 .mainHeader nav{
   background-color: #666;
   height: 40px;
